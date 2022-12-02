@@ -5,7 +5,7 @@
 ## Using cbfmt tools with pre-commit
 
 ```yaml
--   repo: https://github.com/bytewax/cbfmt-pre-commit
+-   repo: https://github.com/bytewax/pre-commit-cbfmt
     rev: main
     hooks:
     -   id: fmt
