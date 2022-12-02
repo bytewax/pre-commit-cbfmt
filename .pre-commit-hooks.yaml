@@ -1,0 +1,6 @@
+- id: fmt
+  name: fmt
+  description: Format files with cbfmt.
+  entry: cbfmt -w
+  language: system
+  types: [markdown]
